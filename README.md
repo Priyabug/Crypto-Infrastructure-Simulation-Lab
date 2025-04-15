@@ -31,3 +31,12 @@ We demonstrate how to:
 1. Run the following command in the terminal to find Ethereum nodes:
    ```bash
    docker ps | grep Eth
+
+-----
+### 👛 Task 1.c: Adding Accounts
+
+1. **Log out or lock** the current MetaMask account.
+
+2. Click **"Forgot Password"** and select the **"Import using Secret Recovery Phrase"** option.
+
+3. Use the following **mnemonic phrase**:
