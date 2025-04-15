@@ -31,8 +31,7 @@ We demonstrate how to:
 1. Run the following command in the terminal to find Ethereum nodes:
    ```bash
    docker ps | grep Eth
-
------
+---
 ### 👛 Task 1.c: Adding Accounts
 
 1. **Log out or lock** the current MetaMask account.
@@ -49,3 +48,21 @@ Install required packages:
 
 ```bash
 pip3 install web3==5.31.1 docker
+
+```
+
+
+
+
+### 2.b. Checking Account Balance
+
+Use a Python script with `web3` to query balances of Ethereum addresses.
+
+### 2.c. Sending Transactions
+
+Use Python to:
+
+- Construct transactions  
+- Sign using private keys  
+- Send transactions to the blockchain  
+- Wait for confirmation and print the transaction receipt
