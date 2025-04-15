@@ -40,3 +40,12 @@ We demonstrate how to:
 2. Click **"Forgot Password"** and select the **"Import using Secret Recovery Phrase"** option.
 
 3. Use the following **mnemonic phrase**:
+
+## 🐍 Task 2: Interacting with Blockchain Using Python
+
+### 2.a. Installing Python Modules
+
+Install required packages:
+
+```bash
+pip3 install web3==5.31.1 docker
