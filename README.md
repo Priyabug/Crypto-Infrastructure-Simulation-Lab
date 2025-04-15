@@ -66,3 +66,33 @@ Use Python to:
 - Sign using private keys  
 - Send transactions to the blockchain  
 - Wait for confirmation and print the transaction receipt
+
+## ⛓️ Task 3: Interacting with Blockchain Using Geth
+
+### 3.a: Getting Balance
+
+Use the Geth console to retrieve the balance of an Ethereum account.
+
+### 3.b: Sending Transactions
+
+Send Ether between accounts directly using the Geth JavaScript console.
+
+### 3.c: Sending Transactions from a Different Account
+
+Unlock the sender account and specify `"from"` and `"to"` fields explicitly to send a transaction.
+
+---
+
+## 🌐 Task 4: Adding a Full Node
+
+- Add a full node to the Ethereum network.
+- Connect it to existing nodes to sync the blockchain.
+- Configure peers and monitor the synchronization status.
+
+## ✅ Summary
+
+By completing this lab, you will:
+
+- Understand blockchain account and node interaction.
+- Gain practical skills using MetaMask, Python scripting (`web3.py`), and Geth.
+- Learn to deploy, interact, and manage Ethereum accounts and transactions.
